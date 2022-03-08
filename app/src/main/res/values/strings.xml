@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleTodoList</string>
+    <string name="write_new_todo_hint">write new todo here</string>
+    <string name="delete_done_button_text">delete done</string>
+    <string name="add_button_text">add</string>
+    <string name="todo_list_sample_text">sample</string>
+</resources>
